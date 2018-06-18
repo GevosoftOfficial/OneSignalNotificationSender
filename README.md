@@ -11,7 +11,7 @@ The Setup Process Takes Only About 2 Minutes And You Are Then Up And Running!
 Click On The Plus Symbol In The Top Right Corner Or The Floating Action Button In The Bottom Right Corner.
 
 <br>
-<img src="add_btns.png" width="300px" height="100px">
+<img src="add_btns.png">
 
 ## Step 2
 
