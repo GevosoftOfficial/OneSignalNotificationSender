@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## One Signal Notification Sender
 
-You can use the [editor on GitHub](https://github.com/GevosoftOfficial/OneSignalNotificationSender/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Send Push Notifications To Your One Signal Apps & Websites Right From Your Phone!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Setup
 
-### Markdown
+The Setup Process Takes Only About 2 Minutes And You Are Then Up And Running!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Step 1
 
-```markdown
-Syntax highlighted code block
+Click On The Plus Symbol In The Top Right Corner Or The Floating Action Button In The Bottom Right Corner.
 
-# Header 1
-## Header 2
-### Header 3
+<br>
+<img src="add_btns_png" width="300px" height="100px;"
 
-- Bulleted
-- List
+# Step 2
 
-1. Numbered
-2. List
+Input Your Preferd Application Name And Then Input The App ID And App Key.
+This is where you can find your App ID & App Key:
+<br>
+## Go to <a href="https://onesignal.com" target="blank">https://onesignal.com</a>
 
-**Bold** and _Italic_ and `Code` text
+## Log In
 
-[Link](url) and ![Image](src)
-```
+## Click On The Application You Want To Send Push's To
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Then Click On Settings.
+<br>
 
-### Jekyll Themes
+<img src="menu_bar.png">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GevosoftOfficial/OneSignalNotificationSender/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Go To 'Keys & ID's'
+<br>
 
-### Support or Contact
+<img src="keys_id.png">
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Copy And Paste The Following Values:
+<br>
+
+<img src="keys.png">
+
+## And You're Done!
